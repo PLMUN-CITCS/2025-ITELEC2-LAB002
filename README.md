@@ -1,12 +1,6 @@
 # 2025-ITELEC2-S03-E01
 Session 03 - Exercise 01 - Working with Variables, Arithmetic and Assignment Operators
 
-# **Problem Set 01 - Problem 01**
-Simple Calculator Program
-
-# **Problem Set 01 - Problem 02**
-Square the Number Program
-
 ---
 
 ### **Step 1: Accept the Assignment**
@@ -34,6 +28,9 @@ cd itelec2-s03-e01-[your username]
 ```
 
 ### **Step 3: Complete the Assignment**
+
+# **Problem Set 01 - Problem 01**
+Simple Calculator Program
 A. Write a Simple Calculator Program
 
 1. Open `problem_01.py` in your text editor or IDE (Python)
@@ -86,6 +83,8 @@ print(f"The quotient is {(num1 / num2):.2f}")
 python problem_01.py
 ```
 
+# **Problem Set 01 - Problem 02**
+Square the Number Program
 B. Square the Number Program
 
 1. Open `problem_02.py` in your text editor or IDE (Python)
