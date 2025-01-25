@@ -4,6 +4,9 @@ Session 03 - Exercise 01 - Working with Variables, Arithmetic and Assignment Ope
 # **Problem Set 01 - Problem 01**
 Simple Calculator Program
 
+# **Problem Set 01 - Problem 02**
+Square the Number Program
+
 ---
 
 ### **Step 1: Accept the Assignment**
