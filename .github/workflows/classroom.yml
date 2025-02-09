@@ -43,7 +43,7 @@ jobs:
         with:
           test-name: Logic Check - problem_01.py
           command: |
-            OUTPUT=$(echo -e "5\n3" | python problem_01.py) && \
+            OUTPUT=$(echo "5\n3" | python problem_01.py) && \
             echo "$OUTPUT" | grep -q "The sum is 8" && \
             echo "$OUTPUT" | grep -q "The difference is 2" && \
             echo "$OUTPUT" | grep -q "The product is 15" && \
